@@ -61,10 +61,6 @@ Congrats!! You have successfully guessed the right number.
 Thanks for playing. Have a nice day!
 ```
 
-## Author
-This program was created by [Your Name].
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
 Enjoy the game!
