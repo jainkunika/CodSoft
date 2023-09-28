@@ -1,8 +1,8 @@
-# Repository Name: FunGames
+# Repository Name: CodSoft
 
 ## Overview
 
-Welcome to the **FunGames** repository, which contains three simple console-based games implemented in C++. Below, you'll find a brief description of each game and how to run them.
+Welcome to the **CodSoft** repository, which contains three simple console-based games implemented in C++. Below, you'll find a brief description of each game and how to run them.
 
 ## Games Included
 
